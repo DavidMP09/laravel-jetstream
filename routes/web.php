@@ -27,4 +27,3 @@ Route::middleware([
 });
 
 
-Route::get('prueba/{name}',ShowPosts::class);
